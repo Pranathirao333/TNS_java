@@ -1,4 +1,4 @@
-package TNS;
+package tns;
 
 public class HelloWorld {
 
